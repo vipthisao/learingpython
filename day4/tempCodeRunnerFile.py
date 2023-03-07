@@ -1,0 +1,1 @@
+print(move_list[0])

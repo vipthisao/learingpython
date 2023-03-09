@@ -1,7 +1,8 @@
-# Lấy ra 4 người bạn đầu tiên trong friends
+
 #            0       1       2        3       4       5       6
 #           -7      -6      -5       -4      -3      -2      -1
 friends = ["Jen", "Jack", "Kenny", "Jelly", "Bob", "Henry", "Anne"]
+# Lấy ra 4 người bạn đầu tiên trong friends
 fist_friends_04 = friends[0:4]
 print(fist_friends_04)
 
